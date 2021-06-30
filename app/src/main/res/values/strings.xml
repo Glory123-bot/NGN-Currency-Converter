@@ -2,7 +2,6 @@
     <string name="app_name">NGN Currency Converter</string>
     <string name="exchange_rate">Exchange Rate</string>
     <string name="textview">TextView</string>
-    <string name="amount">Amount</string>
     <string name="from">From</string>
     <string name="ngn">NGN</string>
     <string name="convert">Convert</string>
@@ -11,8 +10,158 @@
     <string name="to">To</string>
     <string name="total">%s</string>
     <string name="enter_amount">Enter Amount</string>
+    <string name="amount">Amount</string>
     <string-array name="currency_array">
-        <item>USD</item>
-        <item>RMB</item>
+        <item>AED - UAE Dirham</item>
+        <item>AFN- Afghani</item>
+        <item>ALL - Lek</item>
+        <item>AMD - Armenian Dram</item>
+        <item>AOA - Kwanza</item>
+        <item>ARS - Argentine Peso</item>
+        <item>AUD - Australian Dollar</item>
+        <item>AWG - Aruban Guilder/Florin</item>
+        <item>AZN - Azerbaijanian Manat</item>
+        <item>BAM - Konvertibilna Marka</item>
+        <item>BBD - Barbados Dollar</item>
+        <item>BDT - Taka</item>
+        <item>BGN - Bulgarian Lev</item>
+        <item>BHD - Bahraini Dinar</item>
+        <item>BIF - Burundi Franc</item>
+        <item>BMD - Bermudian Dollar</item>
+        <item>BND - Brunei Dollar</item>
+        <item>BOB - Boliviano</item>
+        <item>BRL - Brazilian Real</item>
+        <item>BSD - Bahamian Dollar</item>
+        <item>BTN - Ngultrum</item>
+        <item>BWP - Pula</item>
+        <item>BYN - Belarusian Ruble</item>
+        <item>BZD - Belize Dollar</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>CDF - Congolese Franc</item>
+        <item>CHF - Swiss Franc</item>
+        <item>CLP - Chilean Peso</item>
+        <item>CNY - Yuan</item>
+        <item>COP - Colombian Peso</item>
+        <item>CRC - Costa Rican Colon</item>
+        <item>CUP - Cuban Peso</item>
+        <item>CEV - Cape Verde Escudo</item>
+        <item>CZK- Czech Koruna</item>
+        <item>DJF - Djibouti Franc</item>
+        <item>DKK - Danish Krone</item>
+        <item>DOP - Dominican Peso</item>
+        <item>DZD - Algerian Dinar</item>
+        <item>EGP - Egyptian Pound</item>
+        <item>ERN - Nakfa</item>
+        <item>ETB- Ethiopian Birr</item>
+        <item>EUR - Euro</item>
+        <item>FJD - Fuji Dollar</item>
+        <item>FKP - Falkland Islands Pound</item>
+        <item>GBP - Pound Sterling</item>
+        <item>GEL - Lari</item>
+        <item>GHS - Cedi</item>
+        <item>GIP - Gibraltar Pound</item>
+        <item>GMD - Dalasi</item>
+        <item>GNF - Guinea Franc</item>
+        <item>GTQ - Quetzal</item>
+        <item>GYD - Guyana Dollar</item>
+        <item>HKD - Hong Kong Dollar</item>
+        <item>HNL - Lempira</item>
+        <item>HRK - Croatian Kuna</item>
+        <item>HTG - Gourde</item>
+        <item>HUF - Forint</item>
+        <item>IDR - Rupiah</item>
+        <item>ILS - New Israeli Shekel</item>
+        <item>INR - Indian Rupee</item>
+        <item>IQD - Iraqi Dinar</item>
+        <item>IRR - Iranian Rial</item>
+        <item>ISK - Iceland Krona</item>
+        <item>JMD - Jamaican Dollar</item>
+        <item>JOD - Jordanian Dinar</item>
+        <item>JPY - Yen</item>
+        <item>KES - Kenyan Shilling</item>
+        <item>KGS - Som</item>
+        <item>KHR - Riel</item>
+        <item>KPW - North Korean Won</item>
+        <item>KRW - South Korean Won</item>
+        <item>KWD - Kuwaiti Dinar</item>
+        <item>KYD- Cayman Islands Dollar</item>
+        <item>KZT - Tenge</item>
+        <item>LAK - Kip</item>
+        <item>LBP - Lebanese Pound</item>
+        <item>LKR - Sri Lanka Rupee</item>
+        <item>LRD - Liberian Dollar</item>
+        <item>LSL - Loti</item>
+        <item>LYD - Libyan Dinar</item>
+        <item>MAD - Moroccan Dirham</item>
+        <item>MDL - Moldovan Leu</item>
+        <item>MGA - Malagasy Ariary</item>
+        <item>MKD - Denar</item>
+        <item>MMK - Kyat</item>
+        <item>MNT - Tugrik</item>
+        <item>MOP -Pataca</item>
+        <item>MRU - Ouguiya</item>
+        <item>MUR - Mauritius Rupee</item>
+        <item>MVR - Rufiyaa</item>
+        <item>MWK - Kwacha</item>
+        <item>MXN - Mexican Peso</item>
+        <item>MYR - Malaysian Ringgit</item>
+        <item>MZN - Metical</item>
+        <item>NAD - Namibia Dollar</item>
+        <item>NIO - Cordoba Oro</item>
+        <item>NOK - Norwegian Krone</item>
+        <item>NPR - Nepalese Rupee</item>
+        <item>NZD - New Zealand Dollar</item>
+        <item>OMR - Rial Omani</item>
+        <item>PAB - Balboa</item>
+        <item>PEN - Nuevo Sol</item>
+        <item>PGK - Kina</item>
+        <item>PHP - Philippine Peso</item>
+        <item>PKR - Pakistan Rupee</item>
+        <item>PLN - PZloty</item>
+        <item>PYG - Guarani</item>
+        <item>QAR - Qatari Rial</item>
+        <item>RON - Leu</item>
+        <item>RSD - Serbian Dinar</item>
+        <item>RUB - Russian Ruble</item>
+        <item>RWF - Rwanda Franc</item>
+        <item>SAR - Saudi Riyal</item>
+        <item>SBD - Solomon Islands Dollar</item>
+        <item>SCR - Seychelles Rupee</item>
+        <item>SDG - Sudanese Pound</item>
+        <item>SEK - Swedish Krona</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>SHP - Saint Helena Pound</item>
+        <item>SLL - Leone</item>
+        <item>SOS - Somali Shilling</item>
+        <item>SRD - Suriname Dollar</item>
+        <item>STN - Dobra</item>
+        <item>SYP - Syrian Pound</item>
+        <item>SZL - Lilangeni</item>
+        <item>THB - Baht</item>
+        <item>TJS - Somoni</item>
+        <item>TMT - Manat</item>
+        <item>TND - Tunisian Dinar</item>
+        <item>TOP - Pa’anga</item>
+        <item>TRY - Turkish Lira</item>
+        <item>TTD - Trinidad and Tobago Dollar</item>
+        <item>TWD - Taiwan Dollar</item>
+        <item>TZS - Tanzanian Shilling</item>
+        <item>UAH - Hryvnia</item>
+        <item>UGX - Uganda Shilling</item>
+        <item>USD - US Dollar</item>
+        <item>UYU - Peso Uruguayo</item>
+        <item>UZS - Uzbekistan Sum</item>
+        <item>VEF - Bolivar Fuerte</item>
+        <item>VND - Dong</item>
+        <item>VUV - Vatu</item>
+        <item>WST - Tala</item>
+        <item>XAF - CFA Franc BCEAO</item>
+        <item>XCD - East Caribbean Dollar</item>
+        <item>XPF - CFP Franc</item>
+        <item>YER - Yemeni Rial</item>
+        <item>ZAR - Rand</item>
+        <item>ZMW- Zambian Kwacha</item>
+        <item>ZWL - Zimbabwe Dollar</item>
+
     </string-array>
 </resources>
